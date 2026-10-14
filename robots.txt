@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /config/
+Disallow: /dashboard/
+Disallow: /includes/
+Disallow: /db.php
+
+Sitemap: https://techlearnhub.site/sitemap.xml

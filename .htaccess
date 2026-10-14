@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# ads.txt එක අත්හැර යන්න
+RewriteRule ^ads\.txt$ - [L]
+
+# Force HTTP to HTTPS Redirect
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
