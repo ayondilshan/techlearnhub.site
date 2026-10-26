@@ -22,8 +22,4 @@ TechLearn Hub is a free, AI-powered study platform built for Sri Lankan A/L Tech
 - 💻 **Code Lab:** A place to practise and experiment with code
 - 📄 **Past Paper Quizzes:** Practise with past paper questions
 
-## About
-Made with ❤️ for Sri Lankan A/L Technology students.
 
-## Contact
-Questions or suggestions? Open an issue or reach out through the website's Contact page.
